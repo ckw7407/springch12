@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>회원가입</title>
+    <title>회원가입  하기</title>
 </head>
 <body>
     <p><strong>${registerRequest.name}님</strong> 
