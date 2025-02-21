@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>회원가입</title>
+    <title>회원가입   </title>
 </head>
 <body>
     <h2>회원 정보 입력</h2>
